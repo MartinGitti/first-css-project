@@ -1,0 +1,40 @@
+
+/* External Styling Sheet:*/
+
+body {
+	text-align: center;
+}
+
+h1, h3 {
+	color: black;
+	background-color: orange; text-align: center;
+}
+
+.Image {
+	display: block;
+	margin-left: auto;
+	margin-right: auto
+}
+
+p {
+	font-size: 20px;
+	color: maroon; 
+	font-family: Times New Roman;
+ }
+
+ IMG.center {
+	 display: block;
+	 margin-left: auto;
+	 margin-right: auto
+}
+
+table, th, td {
+	border: 2px solid black;
+	border-collapse: collapse;
+ 	margin-left: auto;
+ 	margin-right: auto;
+ 	margin-top: auto;
+	 margin-bottom: auto;
+	 padding: 10px;
+}
+
