@@ -1,0 +1,50 @@
+/* myStyle.css */
+body{
+	background-color: powderblue;
+	margin-bottom: 4px;
+	margin-right: 4px;
+	margin-left: 4px;
+	margin-top: 4px;
+}
+/*I've added a margin for the entire page and changed the backround-color of my webpage*/
+
+h1, h2, h3{
+	font-style: italic;
+	font-family: times new roman;
+	text-align: center;
+}
+
+div {
+	text-align: center; 
+}
+
+#Top {
+	text-align: right;
+}
+
+p{ 
+	color: blue;
+	font-family: courier;
+	font-size: 15px;
+	margin: 20px;
+}
+
+p.p01 {
+	color: blue;
+}
+p.p02 {
+	color: green;
+}
+p.p03 {
+	color: red;
+}
+
+ul{
+	border: solid 2px red;
+	border-color: lightblue;
+	padding: 2%
+}
+
+nav {
+	text-align: center;
+}
