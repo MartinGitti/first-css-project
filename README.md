@@ -1,5 +1,7 @@
 # first-css-project
-This is my very first attempt to using Css to style my Html page.
+<p>This project is my very first attempt to using Css to style my Html page.>/p>
+<p>This project has two examples that we'll take a look at.</p>
+<p>These Web Pages are standard HTML pages with a bit of css styling to them.</p>
 
 ## Web pages will display as follows:
 
